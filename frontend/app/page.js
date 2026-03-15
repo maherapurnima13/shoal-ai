@@ -54,7 +54,7 @@ export default function Home() {
       try {
 
         const res = await fetch(
-          "https://glorious-journey-jjx4wvjx9gv73575v-8000.app.github.dev/memory"
+          "https://shoal-ai.onrender.com/memory"
         )
 
         const data = await res.json()
@@ -80,7 +80,7 @@ export default function Home() {
     setLoading(true)
 
     const res = await fetch(
-      "https://glorious-journey-jjx4wvjx9gv73575v-8000.app.github.dev/research",
+      "https://shoal-ai.onrender.com/research",
       {
         method: "POST",
         headers: {
