@@ -1,0 +1,71 @@
+[
+  {
+    "task": "Find competitors of Notion",
+    "results": [
+      {
+        "company": "Notion",
+        "pricing": "$8/month",
+        "website": "https://notion.so",
+        "features": "Docs, AI assistant"
+      },
+      {
+        "company": "ClickUp",
+        "pricing": "$7/month",
+        "website": "https://clickup.com",
+        "features": "Tasks, productivity"
+      },
+      {
+        "company": "Airtable",
+        "pricing": "$10/month",
+        "website": "https://airtable.com",
+        "features": "Database workspace"
+      }
+    ]
+  },
+  {
+    "task": "Find competitors of Notion",
+    "results": [
+      {
+        "company": "Notion",
+        "pricing": "$8/month",
+        "website": "https://notion.so",
+        "features": "Docs, AI assistant"
+      },
+      {
+        "company": "ClickUp",
+        "pricing": "$7/month",
+        "website": "https://clickup.com",
+        "features": "Tasks, productivity"
+      },
+      {
+        "company": "Airtable",
+        "pricing": "$10/month",
+        "website": "https://airtable.com",
+        "features": "Database workspace"
+      }
+    ]
+  },
+  {
+    "task": "Find competitors of Notion",
+    "results": [
+      {
+        "company": "Notion",
+        "pricing": "$8/month",
+        "website": "https://notion.so",
+        "features": "Docs, AI assistant"
+      },
+      {
+        "company": "ClickUp",
+        "pricing": "$7/month",
+        "website": "https://clickup.com",
+        "features": "Tasks, productivity"
+      },
+      {
+        "company": "Airtable",
+        "pricing": "$10/month",
+        "website": "https://airtable.com",
+        "features": "Database workspace"
+      }
+    ]
+  }
+]
