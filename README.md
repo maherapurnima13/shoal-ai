@@ -1,7 +1,5 @@
 # 🚀 Shoal AI
 
-
-
 ### Autonomous Web Research Agent powered by TinyFish
 
 > **Shoal AI turns hours of manual web research into minutes using autonomous AI agents.**
@@ -341,11 +339,8 @@ TinyFish effectively transforms the web into an **executable environment for aut
 
 # 👨‍💻 Author
 
-**Umang Mahera**
+**Purnima Mahera**
 
-Aeronautical Engineer | AI Builder
-
-LinkedIn
-https://www.linkedin.com/in/umangkumar-mahera-922170208
+AI Builder
 
 ---
